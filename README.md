@@ -24,4 +24,5 @@
 ![image](https://user-images.githubusercontent.com/57756987/175495150-10793a95-1ae8-4796-b51f-911f52b8bc34.png)  
 
 Интеграционное тестирование:  
-Пока не уверен, что тестирую
+![image](https://user-images.githubusercontent.com/57756987/176231220-fb19df0e-1217-4d84-8eb1-272a177d262e.png)
+
